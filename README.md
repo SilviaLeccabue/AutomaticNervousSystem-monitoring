@@ -1,4 +1,4 @@
-# ML-approach-for-ANS-monitoring
+# ML-monitoring-ANS
 Eye-Tracker: A Machine Learning Approach to Monitor Activation of the Autonomic Nervous System
 
 
